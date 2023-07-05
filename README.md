@@ -12,6 +12,6 @@ Este repositorio contém materiais para a introdução aos princiais conteudos d
  - [Eletrônica](https://github.com/pinguimbotsathome/Start_here/wiki)
  - [Modelagem e Impressão 3D](https://github.com/pinguimbotsathome/Start_here/wiki)
 
-### Topicos Extra:
+### Topicos Extras:
  - [TurtleBot3](https://github.com/pinguimbotsathome/Tutorial_Turtlebot)
  - [Freenect](https://github.com/pinguimbotsathome/Tutorial_OppenniTracker)
